@@ -1,0 +1,3 @@
+[submodule "packages/ddctf-2019"]
+	path = packages/ddctf-2019
+	url = https://github.com/imyelo/ddctf-2019-writeups
