@@ -1,5 +1,4 @@
 # CTF Writeups
-> CTF writeups, code snippets, notes, scripts
 
 ### How to run scripts in this project.
 #### Node.js scripts
@@ -26,7 +25,7 @@ It is recommended to use the online running service:
 - https://eval.in/
 - https://phpfiddle.org/
 
-#### Java 脚本
+#### Java scripts
 ~~no such thing here ;p~~
 
 ## License
