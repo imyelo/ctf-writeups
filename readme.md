@@ -28,3 +28,6 @@ It is recommended to use the online running service:
 
 #### Java 脚本
 ~~no such thing here ;p~~
+
+## License
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) and Apache-2.0 &copy; [Yelo](https://yelo.cc/2019/04/13/ddctf-2019-writeups-intro.html) 2019 - present
