@@ -1,0 +1,7 @@
+Advanced Archive Password Recovery 统计信息:
+加密的 ZIP/RAR/ACE/ARJ 文件: C:\Users\user\Desktop\pypi.zip
+总计口令: 303,102,868,071
+总计时间: 3h 15m 28s 547ms
+平均速度(口令/秒): 25,843,172
+这个文件的口令 : mSubbM
+十六进制口令: 6d 53 75 62 62 4d

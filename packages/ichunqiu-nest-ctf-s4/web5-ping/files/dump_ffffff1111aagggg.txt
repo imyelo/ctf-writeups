@@ -1,0 +1,3 @@
+8.8.8.8
+cat ffffff1111aagggg.txt<pre>PING 8.8.8.8 (8.8.8.8): 56 data bytes
+flag{You_AR3_qiao_bi_KuN???}</pre>
