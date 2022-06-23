@@ -9,7 +9,7 @@
     "cos-nodejs-sdk-v5": "^2.8.2",
     "debug": "^4.1.1",
     "get-stdin": "^7.0.0",
-    "got": "^10.2.0",
+    "got": "^11.8.5",
     "lodash": "^4.17.21",
     "tough-cookie": "^4.0.0"
   }
