@@ -5,7 +5,7 @@
   "author": "yelo <zhihuzeye@gmail.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.12",
     "cos-nodejs-sdk-v5": "^2.8.2",
     "debug": "^4.1.1",
     "get-stdin": "^7.0.0",
