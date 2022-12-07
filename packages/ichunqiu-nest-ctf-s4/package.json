@@ -7,7 +7,7 @@
   "dependencies": {
     "ascii85": "^1.0.2",
     "bignumber.js": "^9.0.0",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0-rc.12",
     "debug": "^4.1.1",
     "get-stdin": "^7.0.0",
     "got": "^11.8.5",
