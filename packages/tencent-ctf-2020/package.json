@@ -11,6 +11,6 @@
     "get-stdin": "^7.0.0",
     "got": "^12.5.3",
     "lodash": "^4.17.21",
-    "tough-cookie": "^4.0.0"
+    "tough-cookie": "^4.1.3"
   }
 }
