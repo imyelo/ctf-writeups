@@ -7,7 +7,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "cos-nodejs-sdk-v5": "^2.12.0",
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "get-stdin": "^7.0.0",
     "got": "^12.5.3",
     "lodash": "^4.17.21",
