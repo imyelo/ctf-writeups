@@ -17,6 +17,6 @@
   "homepage": "https://github.com/imyelo/ctf-writeups#readme",
   "devDependencies": {
     "gulp": "^5.0.0",
-    "lerna": "^6.1.0"
+    "lerna": "^9.0.5"
   }
 }
